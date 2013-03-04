@@ -1,0 +1,15 @@
+{
+  "name": "Qhosejs",
+  "author": "Steve Williams",
+  "description": "Tail log file and save as list to Redis for Queue",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "redis": "*",
+    "tail": "*"
+  },
+  "devDependenies": {}
+}
